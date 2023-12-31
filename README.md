@@ -18,8 +18,8 @@
 
 - [POST LOGIN user] (https://goodreaders-api.vercel.app/api/v1/auth/login)
   {
-  "password": "ridwan123",
-  "email": "ridwan@gmail.com"
+  "password": "shagar",
+  "email": "shagar@gmail.com"
   }
 
 - [POST refresh token] (https://goodreaders-api.vercel.app/api/v1/auth/refresh-token)
@@ -51,10 +51,10 @@
 - [POST create book] (https://goodreaders-api.vercel.app/api/v1/book)
 
       	{
-      		"title": "Chemistry Test Book",
-      		"author": "Ridwan Alam",
-      		"genre": "education",
-      		"publication": "20-12-2020",
+      		"title": "The Art of Forgetting",
+      		"author": "Julianne Rivers",
+      		"genre": "CONTEMPORARY FICTION",
+      		"publication": "23-06-2015",
       		"addedBy": "64b2f323e1ca0a499e9f769e"
       	}
 
